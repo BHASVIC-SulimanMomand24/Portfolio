@@ -1,4 +1,6 @@
 # SuliJavaWork
+
+This is the work i did in lessons when i first learnt how to do OOP. Our teachers decided that Java would be the best language for us to learn the fundamentals of OOP
 ## Fundamentals Of OOP
 1. programming paradigm- different styles of programming.
 2. In procedural programming everything is variable, constant & subroutine is defined seperately with no relationship, in OOP they define objects with their own values, subroutines making the able to be grouped together in a logical way
